@@ -6,6 +6,8 @@
 
 The website and documentation for the [Eleventy static site generator](https://github.com/11ty/eleventy/).
 
+**Note:** This repository is managed by Udom bot.
+
 ## Running Locally
 
 ```
